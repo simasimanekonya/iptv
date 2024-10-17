@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:252104
+#EXTINF:4.00400,
+index_high/00126/index_high_00104.ts
+#EXTINF:4.00400,
+index_high/00126/index_high_00105.ts
+#EXTINF:4.00400,
+index_high/00126/index_high_00106.ts
+#EXTINF:4.00400,
+index_high/00126/index_high_00107.ts
